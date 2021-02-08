@@ -6,19 +6,17 @@
 
 ```bhash
 
-apt update && apt upgrade 
+apt update && apt upgrade -y
 
-pkg install git python
+apt install git python -y
 
 git clone https://github.com/dasunpamod/lkbomber.git
 
-pip3 install -r requirements.txt
-
 cd lkbomber
 
-ls
+pip3 install -r requirements.txt
 
-python lkbomber.py
+python3 lkbomber.py
 
 ```
 
