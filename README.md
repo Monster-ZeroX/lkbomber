@@ -26,7 +26,7 @@ ____
 
 **Only use it to educational purposes**
 
-(This Project contain some content from  https://github.com/Sl-Sanda-Ru/Sl-Bomber.git.,https://github.com/TheSpeedX/TBomb Maybe some rights reserved by them)
+(This Project contain some content from  https://github.com/Sl-Sanda-Ru/Sl-Bomber.git.,  https://github.com/TheSpeedX/TBomb Maybe some rights reserved by them)
 
 <p style="color:green ">Copyright Dasun®</p>
 
