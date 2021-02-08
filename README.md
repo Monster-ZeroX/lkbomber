@@ -14,11 +14,11 @@ git clone https://github.com/dasunpamod/lkbomber.git
 
 pip3 install -r requirements.txt
 
-cd Dbomber
+cd lkbomber
 
 ls
 
-python db.py
+python lkbomber.py
 
 ```
 
