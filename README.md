@@ -6,7 +6,7 @@
 
 ```bhash
 
-phk update && apt upgrade 
+apt update && apt upgrade 
 
 pkg install git python
 
