@@ -30,14 +30,4 @@ ____
 
 <p style="color:green ">Copyright Dasun®</p>
 
-<p style="color:#33FF66">Join our group.</p>
 
-<a href="https://t.me/dasun_pamod"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
-#
-
-<a href="https://t.me/D_bot_Ai"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-
-___
-
-___
